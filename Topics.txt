@@ -288,3 +288,10 @@ Assignment
 IPL Points Table (with fetch) - JS Private properties & methods, Avoid Extending the Built-in Objects, Mixins, J
 https://my.newtonschool.co/playground/markup/ljjsl9hajlpu
 
+
+25th- May 2023
+https://jsfiddle.net/rakib7425/4oezh6kj/
+https://jsfiddle.net/AmitMishrajs/cmfxu1yb/95/
+https://jsfiddle.net/AmitMishrajs/cmfxu1yb/95/
+
+
